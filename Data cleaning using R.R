@@ -1,7 +1,7 @@
 library(caret)
 
 #Open file
-data_houseprice <- read.csv('F:/KERJA/R/Dibimbing Batch 8/train.csv')
+data_houseprice <- read.csv('train.csv')
 head(data_houseprice)
 View(data_houseprice)
 
